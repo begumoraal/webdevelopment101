@@ -10,7 +10,7 @@ Web Development 101 Notes
 
 ```
 git status        - to see if everything is up to date.
-git add           - to add one of your files to the repository
+git add           - to add one of your files to the repository.
 git commit -m " " - to commit the changes, to comment.
 git push          - to push your changes through, to send.
 ```
