@@ -9,10 +9,10 @@ Web Development 101 Notes
 ## Class 1 - A. Basic Commands
 
 ```
-.git status        - to see if everything is up to date.
-.git add           - to add one of your files to the repository
-.git commit -m " " - to commit the changes, to comment.
-.git push          - to push your changes through, to send.
+git status        - to see if everything is up to date.
+git add           - to add one of your files to the repository
+git commit -m " " - to commit the changes, to comment.
+git push          - to push your changes through, to send.
 ```
 
 ## Class 1 - B. Styling Text
