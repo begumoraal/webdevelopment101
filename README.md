@@ -4,7 +4,7 @@ Web Development 101 Notes
 # First Class
 **The first class was took place on March 15, 2020.**
 
-```The next lesson is next week.```
+```The next lesson is one week later.```
 
 ## Class 1 - A. Basic Commands
 
