@@ -17,14 +17,14 @@ git push          - to push your changes through, to send.
 
 ## Class 1 - B. Styling Text
 
-```.** or __  ```: **bold text.**
+```** or __  ```: **bold text.**
 
-```.* or _    ```: *italic text.* _italic text._
+```* or _    ```: *italic text.* _italic text._
 
-```.~         ```: ~strikethrough text.~
+```~         ```: ~strikethrough text.~
 
-```.** and _  ```: **_bold and italic text_** - to italicize a certain word in a bold sentence.
+```** and _  ```: **_bold and italic text_** - to italicize a certain word in a bold sentence.
 
-```.***       ```: ***bold and italic text*** - to make the whole sentence bold and italic.
+```***       ```: ***bold and italic text*** - to make the whole sentence bold and italic.
 
-```.>         ```: you can quote a text with this.
+```>         ```: you can quote a text with this.
